@@ -1,7 +1,6 @@
 🧔  About Me
 - 👋 Hi, I’m @andrew-waite
 - 🎓 Bachelor of Software Engineering
-- 👀 Cars, Coffee and working out
 - 🌱 I’m currently learning Electron and NodeJs
 - 🤔 Exploring new technologies and developing software solutions
 
