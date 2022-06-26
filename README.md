@@ -10,9 +10,9 @@
 - 📘 MSSQL Server, Postgres
 - ⚙️ Ansible
 
-💡 Current Project
-
-[code-snippet-storage](https://github.com/andrew-waite/code-snippet-storage) - Built using Angular 13, Electron, NodeJs and the Monaco editor.
+💡 Current Project - [Message-Board](https://github.com/andrew-waite/message-board) 
+  - Backend agnositc UI built using Angular13. 
+  - Backend written in Java using Netty, Apache Camel, Hibernate, Spring, and MSSQL.
 
 <!---
 andrew-waite/andrew-waite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
