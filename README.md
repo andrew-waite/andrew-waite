@@ -12,7 +12,7 @@
 
 💡 Current Project - [Message-Board](https://github.com/andrew-waite/message-board) 
   - Backend agnositc UI built using Angular13. 
-  - Backend written in Java using Netty, Apache Camel, Hibernate, Spring, and MSSQL.
+  - Backend written in Java using Netty, Apache Camel, Hibernate, Spring Framework, and MSSQL.
 
 <!---
 andrew-waite/andrew-waite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
